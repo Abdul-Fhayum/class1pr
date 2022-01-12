@@ -1,0 +1,17 @@
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "MANGALORE",
+      'continent': "AS",
+      'country': "IN",
+      'region': "KA",
+      'dma': ""
+    },
+    'ip':"223.186.204.228"
+  }]);
+})
+//
+()
+
+;
